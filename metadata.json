@@ -1,0 +1,6 @@
+{
+  "name": "الرقية الشرعية الذاتية",
+  "description": "تطبيق إسلامي رائد يساعدك على رقية نفسك بنفسك بالشكل الشرعي الصحيح وحمايتك من استغلال السحرة والدجالين والمحتالين",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
